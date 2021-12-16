@@ -1,0 +1,25 @@
+.contentCalculator {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 2.8rem;
+}
+
+.calculator {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: 0%;
+}
