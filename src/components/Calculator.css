@@ -5,12 +5,12 @@
 }
 
 body {
-  background: rgb(16, 18, 22);
+  background: rgb(235, 236, 240);
   font-family: 'Times New Roman', Times, serif;
 }
 
 .App {
-  height: 100vh;
+  /* height: 100%; */
   width: 100%;
 }
 
@@ -18,7 +18,8 @@ body {
   display: grid;
   justify-content: center;
   align-content: center;
-  min-height: 80vh;
+
+  /* min-height: 80vh; */
   grid-template-columns: repeat(4, 100px);
   grid-template-rows: minmax(60px, auto) repeat(5, 60px);
 }

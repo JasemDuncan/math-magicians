@@ -1,0 +1,27 @@
+.content {
+  /* background: saddlebrown; */
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  /* background: salmon; */
+  display: flex;
+  flex-direction: row;
+  padding-left: 3%;
+}
+
+h2 {
+  /* background: salmon; */
+  display: flex;
+  flex-direction: row;
+  padding-left: 3%;
+}
+
+.parragraph {
+  /* background-color: seagreen; */
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  padding: 0 3% 0 3%;
+}

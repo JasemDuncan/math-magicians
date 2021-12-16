@@ -1,0 +1,32 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 0 3% 0 3%;
+
+  /* background-color: rosybrown; */
+}
+
+.nameQuote {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  padding-top: 5%;
+  font-size: 3.5rem;
+
+  /* background-color: red; */
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  padding-top: 5%;
+  font-size: 1.7rem;
+
+  /* background-color: red; */
+}
