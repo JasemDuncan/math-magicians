@@ -4,7 +4,9 @@
 
 # Live Version
 
-CHECK IN HEROKU: [Math-Magicians](https://react-math-magicians.herokuapp.com/)
+CHECK IT IN HEROKU: [Math-Magicians](https://react-math-magicians.herokuapp.com/)
+
+CHECK IT IN NETLIFY: [Math-Magicians](https://serene-mayer-05afd9.netlify.app/)
 
 ![](./ScreenShoot1.png)
 ![](./ScreenShoot2.png)
